@@ -1,0 +1,1 @@
+in this repo i am going to post what even i will learn in Retrival Argumented Generation(RAG)
