@@ -16,3 +16,4 @@ docx2txt
 unstructured[docx]
 openpyxl
 jq
+matplotlib
