@@ -10,3 +10,7 @@ wheels/
 .venv
 venv/
 
+
+# env file
+.env
+
